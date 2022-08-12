@@ -2,8 +2,8 @@
 
 public class Additions {
   public static void main(String[] args) {
-    int x=Integer.parseInt(args[0]);
-    int y=Integer.parseInt(args[1]);
+    int x=2;
+    int y=5;
     int sum=x+y;
     System.out.println(sum);
   }
